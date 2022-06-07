@@ -28,5 +28,5 @@ cargo run -p  tcpserver
 cargo run -p tcpclient
 ```
 
-expected output 
+expected output :      
 [Got response from server:"Hello"]
