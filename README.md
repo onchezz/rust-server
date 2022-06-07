@@ -18,3 +18,15 @@ you can also view this items
 ```
 http://localhost:3000/api/shipping/orders
 ```
+you can also view the tcp server in the cargo  work space 
+- start the tcp server from one terminal window  by running this command
+```
+cargo run -p  tcpserver
+```
+- start the tcp client in another termial  window 
+```
+cargo run -p tcpclient
+```
+
+expected output 
+[Got response from server:"Hello"]
