@@ -10,3 +10,11 @@ cd into file the run
 ```
 cargo run -p httpserver
 ```
+after running go to the your web browser and paste 
+```
+localhost:3000/
+```
+you can also view this items
+```
+http://localhost:3000/api/shipping/orders
+```
